@@ -28,6 +28,8 @@ npm start
 
 Navigate to http://localhost:3000/ in your web browser to use the application.
 
+cinemy.vercel.app
+
 Technologies Used
 React JS
 HTML5
