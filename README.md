@@ -20,15 +20,15 @@ Start the development server using the following command:
 npm start
 
 Navigate to http://localhost:3000/ in your web browser to use the application.
-
+Project- 
 https://cinemy.vercel.app/
 
 
 ## Technologies Used
-React JS
-HTML5
-CSS3
-Material-UI
+- React JS
+- HTML5
+- CSS3
+- Material-UI
 
 ## Contributing
 
