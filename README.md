@@ -19,7 +19,7 @@ Add your API key to the src/config.js file.
 Start the development server using the following command:
 npm start
 
-Navigate to http://localhost:3000/ in your web browser to use the app.
+Navigate to http://localhost:3000/ in your web browser to use the application.
 Project- 
 https://cinemy.vercel.app/
 
