@@ -13,7 +13,7 @@ cd movie-search-app
 Install the project dependencies using the following command:
 npm install
 
-# Usag
+# Usage
 Obtain an API key from The MovieDB.
 Add your API key to the src/config.js file.
 Start the development server using the following command:
