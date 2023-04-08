@@ -28,8 +28,12 @@ https://cinemy.vercel.app/
 ## Technologies Used
 - React JS
 - HTML5
-- CSS3
 - Material-UI
+- API integration
+- CSS and styling
+- Error handling
+- Debugging
+- Deployment
 
 ## Contributing
 
