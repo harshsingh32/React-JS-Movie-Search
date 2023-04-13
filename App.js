@@ -21,7 +21,7 @@ function App() {
   return (
     <>
       {!spinner ? (
-        <BrowserRr>
+        <BrowserRouter>
           <Switch>
             <Route exact path="/error" component={NotFound} />
             <Route path="/(login)" exact component={RoutesAuth} />
