@@ -4,7 +4,7 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./../node_modules/touch-loader/touchLoader";
 import React, { useEffect, useState } from "react";
-import Myloader from "react-spinners/ClipLoader";
+import Myloa from "react-spinners/ClipLoader";
 import mySvg from "./images/hbo-max.svg";
 import RoutesAuth from "./config/Routes/RoutesAuth";
 import NotFound from "./pages/Errors/NotFound";
