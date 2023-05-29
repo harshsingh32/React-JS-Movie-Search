@@ -2,7 +2,7 @@
 
 This is a web application that allows users to search and filter movies they want from the MovieDB API. 
 
-It is built using React JS, HTML5, CSS3, and Material-UI. The application is responsive and can be viewed on both mobile and desktop device. 
+It is built using React JS, HTML5, CSS3. The application is responsive and can be viewed on both mobile and desktop device. 
 
 [🔗Project](https://cinemy.vercel.app/)
 
