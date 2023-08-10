@@ -1,6 +1,7 @@
-## Movie Search Application using React JS
+## Movie Search App
 
-This is a web application that allows users to search and filter movies they want from the MovieDB API. 
+This is a web application that allows users to search and filter movies they want from the Imdb API. 
+
 It is built using React JS, HTML5, CSS3. The application is responsive and can be viewed on mobile and desktop device. 
 
 [🔗Project](https://cinemy.vercel.app/)
