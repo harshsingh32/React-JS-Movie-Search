@@ -29,6 +29,7 @@ Navigate to http://localhost:3000/ in your web browser to use the application.
 
 
 ## Technologies Used
+
 - React JS
 - HTML5
 - Material-UI
