@@ -9,12 +9,18 @@ It is built using React JS, HTML5, CSS3. The application is responsive and can b
 ## Installation
 
 Clone the repository using the following command:
-git clone https://github.com/your-username/movie-search-app.git
 
-Navigate to the project directory using the following command:
+• git clone:
+``
+https://github.com/your-username/movie-search-app.git
+``
+
+• Navigate to the project directory using the following command:
+``
 cd movie-search-app
+``
 
-Install the project dependencies using the following command:
+• Install the project dependencies using the following command:
 npm install
 
 # Usage
