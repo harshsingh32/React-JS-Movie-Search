@@ -9,7 +9,6 @@ It is built using ReactJS, HTML5, CSS3. The application is responsive and can be
 ## Installation
 
 Clone the repository using the following command:
-
 • git clone:
 ``
 https://github.com/your-username/movie-search-app.git
