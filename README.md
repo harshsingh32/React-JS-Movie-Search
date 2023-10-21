@@ -7,7 +7,6 @@ It is built using ReactJS, HTML5, CSS3. The application is responsive and can be
 [🔗Project](https://cinemy.vercel.app/)
 
 ## Installation
-
 Clone the repository using the following command:
 • git clone:
 ``
