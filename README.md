@@ -4,10 +4,11 @@ This is a web application that allows users to search and filter movies they wan
 
 It is built using ReactJS, HTML5, CSS3. The application is responsive and can be viewed on mobile and desktop device. 
 
-[🔗Project](https://cinemy.vercel.app/)
+[🔗Project] (https://cinemy.vercel.app/)
 
 ## Installation
 Clone the repository using the following command:
+ 
 • git clone:
 ``
 https://github.com/your-username/movie-search-app.git
@@ -19,7 +20,9 @@ cd movie-search-app
 ``
 
 • Install the project dependencies using the following command:
+``
 npm install
+``
 
 # Usage
 Obtain an API key from The MovieDB.
